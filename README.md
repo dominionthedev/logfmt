@@ -19,12 +19,11 @@ Supports **JSON** and **logfmt** (`key=value`) style logs. Falls back gracefully
 go install github.com/dominionthedev/logfmt@latest
 ```
 
-Or build locally:
+Or download a prebuilt binary from the [releases page](https://github.com/dominionthedev/logfmt/releases)
+- With Eget:
 
 ```bash
-git clone ...
-cd logfmt
-go build -o logfmt .
+eget dominionthedev/logfmt
 ```
 
 ## Usage
