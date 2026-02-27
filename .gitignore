@@ -1,0 +1,7 @@
+# Editor
+.vscode/
+.DS_Store
+
+# log
+example.log
+
