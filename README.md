@@ -11,6 +11,8 @@
 Pipe logs and get formatted, colorized, filterable terminal output.  
 Supports **JSON** and **logfmt** (`key=value`) style logs. Falls back gracefully for plain text.
 
+![demo](./assets/demo.gif)
+
 ## Install
 
 ```bash
