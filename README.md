@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="./assets/logo.svg" alt="logfmt logo" width="600" />
+</p>
+
 # logfmt 🪵
+
+[![Build Status](https://img.shields.io/github/actions/workflow/status/dominionthedev/logfmt/go.yml?branch=main)](https://github.com/dominionthedev/logfmt/actions/workflows/go.yml)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/dominionthedev/logfmt)](./go.mod)
+[![License](https://img.shields.io/github/license/dominionthedev/logfmt)](./LICENSE)
 
 Pipe logs and get formatted, colorized, filterable terminal output.  
 Supports **JSON** and **logfmt** (`key=value`) style logs. Falls back gracefully for plain text.
