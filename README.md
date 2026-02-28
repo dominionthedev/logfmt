@@ -4,7 +4,7 @@
 
 # logfmt 🪵
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/dominionthedev/logfmt/go.yml?branch=main)](https://github.com/dominionthedev/logfmt/actions/workflows/go.yml)
+[![Build Status](https://github.com/dominionthedev/logfmt/actions/workflows/go.yml/badge.svg)](https://github.com/dominionthedev/logfmt/actions/workflows/go.yml)
 [![Go Version](https://img.shields.io/github/go-mod/go-version/dominionthedev/logfmt)](./go.mod)
 [![License](https://img.shields.io/github/license/dominionthedev/logfmt)](./LICENSE)
 
@@ -27,6 +27,10 @@ eget dominionthedev/logfmt
 ```
 
 ## Usage
+
+> [!NOTE]
+> Some Flags doesn't work, and some logs don't get formatted
+> This will be fixed in the next 
 
 ```bash
 # Basic — pipe anything in
